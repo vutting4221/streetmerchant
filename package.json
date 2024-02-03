@@ -48,9 +48,9 @@
     "puppeteer-page-proxy": "^1.2.8",
     "pushover-notifications": "^1.2.2",
     "twilio": "^3.53.0",
-    "twitch": "^4.3.3",
-    "twitch-auth": "^4.3.3",
-    "twitch-chat-client": "^4.3.3",
+    "twitch": "^4.6.7",
+    "twitch-auth": "^4.6.7",
+    "twitch-chat-client": "^4.6.7",
     "twitter": "^1.7.1",
     "winston": "^3.3.3"
   },

@@ -31,8 +31,8 @@
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
-    "messaging-api-telegram": "^1.0.1",
-    "mqtt": "^4.2.6",
+    "messaging-api-telegram": "^1.0.4",
+    "mqtt": "^5.7.2",
     "node-fetch": "^2.6.1",
     "node-hue-api": "^4.0.9",
     "node-notifier": "^8.0.0",
@@ -45,14 +45,14 @@
     "puppeteer-extra-plugin-adblocker": "^2.11.9",
     "puppeteer-extra-plugin-block-resources": "^2.2.7",
     "puppeteer-extra-plugin-stealth": "^2.6.5",
-    "puppeteer-page-proxy": "^1.2.8",
+    "puppeteer-page-proxy": "^1.2.9",
     "pushover-notifications": "^1.2.2",
-    "twilio": "^3.53.0",
+    "twilio": "^5.0.4",
     "twitch": "^4.3.3",
     "twitch-auth": "^4.3.3",
     "twitch-chat-client": "^4.3.3",
     "twitter": "^1.7.1",
-    "winston": "^3.3.3"
+    "winston": "^3.3.4"
   },
   "devDependencies": {
     "@types/async": "^3.2.5",
